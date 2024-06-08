@@ -1,11 +1,11 @@
 # LiftConstroll
-![image](https://github.com/AskhabAbdulqadirqala/LiftControll/blob/main/public/demonstration/Demonstation.gif)
 
 LiftConstroll - веб-приложение, представляющее из себя систему управления лифтовой инфраструктуры населённого пункта. Оно реализовано на React.JS (frontend), Node.JS (backend) и MondoDB (база данных).
+![image](https://github.com/AskhabAbdulqadirqala/LiftControll/blob/main/public/demonstration/Demonstation.gif)
 
-![image](https://github.com/AskhabAbdulqadirqala/LiftControll/blob/main/public/demonstration/main_page.png)
 
 Главная страница веб-приложения представляет из себя 4 кнопки, которые переадресовывают оператора системы управления на разные функциональные компоненты.
+![image](https://github.com/AskhabAbdulqadirqala/LiftControll/blob/main/public/demonstration/main_page.png)
 
 ## NewReq
 Компонент создания запроса. Первый компонент позволяет оператору при звонке от пользователя лифта с жалобой о неисправности в лифтовой инфраструктуре в режиме реального времени на основе данных от пользователя сформировать новый запрос на исправление неисправности.

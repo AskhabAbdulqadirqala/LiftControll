@@ -1,0 +1,16 @@
+.mainbutton {
+    background-color: gray;
+     color: white;
+     padding: 10px 20px;
+     text-align: center;
+     text-decoration: none;
+     display: block;
+     font-size: 16px;
+     margin: 4px 30%;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 40%;
+}
+.butDiv {
+    margin-top: 100px;
+}
